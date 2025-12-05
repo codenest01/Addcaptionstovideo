@@ -1,0 +1,26 @@
+name: Deploy to Railway
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Login to Railway
+      uses: railwayapp/action@v1
+      with:
+        railwayToken: ${{ secrets.RAILWAY_TOKEN }}
+
+    - name: Build Docker image
+      run: docker build -t adcaption:latest .
+
+    - name: Save Docker image to file
+      run: docker save adcaption:latest -o image.tar
+
+    - name: Upload image to Railway
+      run: railway image upload -s ${{ secrets.RAILWAY_SERVICE }} image.tar
