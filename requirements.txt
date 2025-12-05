@@ -1,0 +1,6 @@
+requests
+pymongo
+tqdm
+openai-whisper
+srt
+opencv-python

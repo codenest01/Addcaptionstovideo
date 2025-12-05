@@ -1,0 +1,356 @@
+{
+  "used": [
+    [
+      "zoom",
+      "rotate",
+      "diag_float"
+    ],
+    [
+      "zoom",
+      "float"
+    ],
+    [
+      "pan",
+      "float",
+      "rotate",
+      "spiral"
+    ],
+    [
+      "zoom",
+      "float",
+      "rotate"
+    ],
+    [
+      "pan",
+      "diag_pan",
+      "diag_float"
+    ],
+    [
+      "zoom",
+      "diag_pan",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "pan",
+      "rotate"
+    ],
+    [
+      "zoom",
+      "rotate",
+      "spiral"
+    ],
+    [
+      "zoom",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "pan",
+      "float",
+      "diag_float",
+      "spiral"
+    ],
+    [
+      "pan",
+      "float",
+      "diag_pan",
+      "diag_float"
+    ],
+    [
+      "diag_pan",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "rotate",
+      "diag_pan",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "pan",
+      "spiral"
+    ],
+    [
+      "rotate",
+      "diag_pan"
+    ],
+    [
+      "pan",
+      "rotate",
+      "diag_pan",
+      "spiral"
+    ],
+    [
+      "zoom",
+      "pan",
+      "pulse_zoom"
+    ],
+    [
+      "zoom",
+      "rotate",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "zoom",
+      "rotate",
+      "diag_float",
+      "spiral"
+    ],
+    [
+      "pulse_zoom"
+    ],
+    [
+      "float",
+      "rotate",
+      "diag_pan",
+      "pulse_zoom"
+    ],
+    [
+      "zoom",
+      "float",
+      "diag_float"
+    ],
+    [
+      "float",
+      "rotate",
+      "diag_float"
+    ],
+    [
+      "float",
+      "spiral"
+    ],
+    [
+      "zoom",
+      "diag_pan"
+    ],
+    [
+      "zoom",
+      "diag_float",
+      "pulse_zoom"
+    ],
+    [
+      "pan",
+      "float",
+      "diag_pan",
+      "spiral"
+    ],
+    [
+      "pan",
+      "diag_pan",
+      "diag_float",
+      "pulse_zoom"
+    ],
+    [
+      "zoom",
+      "diag_float",
+      "spiral"
+    ],
+    [
+      "pan"
+    ],
+    [
+      "zoom",
+      "rotate",
+      "pulse_zoom"
+    ],
+    [
+      "float",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "pan",
+      "rotate",
+      "spiral",
+      "pulse_zoom"
+    ],
+    [
+      "pan",
+      "rotate",
+      "pulse_zoom"
+    ],
+    [
+      "rotate"
+    ]
+  ],
+  "video_map": {
+    "video_48fd1e24.mp4": [
+      "zoom",
+      "rotate",
+      "diag_float"
+    ],
+    "video_07b0686a.mp4": [
+      "zoom",
+      "float"
+    ],
+    "video_ce627a31.mp4": [
+      "pan",
+      "float",
+      "rotate",
+      "spiral"
+    ],
+    "video_b9a89721.mp4": [
+      "zoom",
+      "float",
+      "rotate"
+    ],
+    "video_5dd959d6.mp4": [
+      "pan",
+      "diag_pan",
+      "diag_float"
+    ],
+    "video_86789564.mp4": [
+      "zoom",
+      "diag_pan",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_62487ab9.mp4": [
+      "pan",
+      "rotate"
+    ],
+    "video_003b1163.mp4": [
+      "zoom",
+      "rotate",
+      "spiral"
+    ],
+    "video_ea953026.mp4": [
+      "zoom",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_0070b7a5.mp4": [
+      "pan",
+      "float",
+      "diag_float",
+      "spiral"
+    ],
+    "video_caff585f.mp4": [
+      "pan",
+      "float",
+      "diag_pan",
+      "diag_float"
+    ],
+    "video_7a295d6a.mp4": [
+      "diag_pan",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_111ed211.mp4": [
+      "rotate",
+      "diag_pan",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_b7fc9c76.mp4": [
+      "pan",
+      "spiral"
+    ],
+    "video_5a3a1614.mp4": [
+      "rotate",
+      "diag_pan"
+    ],
+    "video_7e768ac4.mp4": [
+      "pan",
+      "rotate",
+      "diag_pan",
+      "spiral"
+    ],
+    "video_cb139c37.mp4": [
+      "zoom",
+      "pan",
+      "pulse_zoom"
+    ],
+    "video_2ed5ed34.mp4": [
+      "zoom",
+      "rotate",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_0c67b8f2.mp4": [
+      "zoom",
+      "rotate",
+      "diag_float",
+      "spiral"
+    ],
+    "video_d664acbe.mp4": [
+      "pulse_zoom"
+    ],
+    "video_4ad6e785.mp4": [
+      "float",
+      "rotate",
+      "diag_pan",
+      "pulse_zoom"
+    ],
+    "video_b8b8d1de.mp4": [
+      "zoom",
+      "float",
+      "diag_float"
+    ],
+    "video_87bb9802.mp4": [
+      "float",
+      "rotate",
+      "diag_float"
+    ],
+    "video_a562536a.mp4": [
+      "float",
+      "spiral"
+    ],
+    "video_e4d94b8b.mp4": [
+      "zoom",
+      "diag_pan"
+    ],
+    "video_90b2a1de.mp4": [
+      "zoom",
+      "diag_float",
+      "pulse_zoom"
+    ],
+    "video_98b32a77.mp4": [
+      "pan",
+      "float",
+      "diag_pan",
+      "spiral"
+    ],
+    "video_de8ab0b9.mp4": [
+      "pan",
+      "diag_pan",
+      "diag_float",
+      "pulse_zoom"
+    ],
+    "video_922947a6.mp4": [
+      "zoom",
+      "diag_float",
+      "spiral"
+    ],
+    "video_eba445e3.mp4": [
+      "pan"
+    ],
+    "video_d3c14354.mp4": [
+      "zoom",
+      "rotate",
+      "pulse_zoom"
+    ],
+    "video_129aff48.mp4": [
+      "float",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_249f5d53.mp4": [
+      "pan",
+      "rotate",
+      "spiral",
+      "pulse_zoom"
+    ],
+    "video_cd7577e5.mp4": [
+      "pan",
+      "rotate",
+      "pulse_zoom"
+    ],
+    "video_4340df75.mp4": [
+      "rotate"
+    ]
+  }
+}

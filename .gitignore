@@ -1,0 +1,14 @@
+myenv/
+__pycache__/
+output/
+temp_downloads/
+audio/
+images/
+*.mp4
+*.wav
+*.flac
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.zip
